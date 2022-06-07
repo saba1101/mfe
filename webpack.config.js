@@ -4,7 +4,7 @@ const { VueLoaderPlugin } = require("vue-loader");
 
 module.exports = {
   output: {
-    publicPath: "http://localhost:8080/",
+    publicPath: "https://mfetest.netlify.app/",
   },
 
   resolve: {
